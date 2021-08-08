@@ -1,8 +1,8 @@
 {
   "name": "ionic-capacitor-angular-camera-mask",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "author": "João Pedro Moraes",
+  "homepage": "https://github.com/joaopedromoraez/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -20,6 +20,7 @@
     "@angular/platform-browser": "~12.1.1",
     "@angular/platform-browser-dynamic": "~12.1.1",
     "@angular/router": "~12.1.1",
+    "@capacitor-community/camera-preview": "^1.2.1",
     "@capacitor/core": "3.1.2",
     "@ionic/angular": "^5.5.2",
     "rxjs": "~6.6.0",
