@@ -1,5 +1,7 @@
 {
   "name": "ionic-capacitor-angular-camera-mask",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
